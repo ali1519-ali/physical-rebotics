@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://muaazasif.github.io',
+  url: 'https://ali1519-ali.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/physical-ai-robotics-website/',
+  baseUrl: '/physical-rebotics/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'muaazasif', // Usually your GitHub org/user name.
-  projectName: 'physical-ai-robotics-website', // Usually your repo name.
+  organizationName: 'ali1519-ali', // Usually your GitHub org/user name.
+  projectName: 'physical-rebotics', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   
   onBrokenLinks: 'throw',
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/muaazasif/physical-ai-robotics-website',
+            'https://github.com/ali1519-ali/physical-rebotics',
         },
         blog: {
           showReadingTime: true,
@@ -62,7 +62,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/muaazasif/physical-ai-robotics-website',
+            'https://github.com/ali1519-ali/physical-rebotics',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -95,7 +95,7 @@ const config = {
           },
           
           {
-            href: 'https://github.com/muaazasif/physical-ai-robotics-website',
+            href: 'https://github.com/ali1519-ali/physical-rebotics',
             label: 'GitHub',
             position: 'right',
           },
