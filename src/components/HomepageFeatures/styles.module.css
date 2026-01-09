@@ -1,0 +1,20 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+.chatContainer { position: fixed; bottom: 20px; right: 20px; z-index: 1000; font-family: sans-serif; }
+.chatButton { background: #25c2a0; color: white; border: none; padding: 12px 20px; border-radius: 50px; cursor: pointer; font-weight: bold; box-shadow: 0 4px 12px rgba(0,0,0,0.2); }
+.chatWindow { background: white; border: 1px solid #ddd; width: 300px; height: 400px; border-radius: 10px; margin-bottom: 10px; display: flex; flex-direction: column; overflow: hidden; box-shadow: 0 8px 24px rgba(0,0,0,0.2); }
+.chatHeader { background: #25c2a0; color: white; padding: 10px; font-weight: bold; text-align: center; }
+.chatBody { flex: 1; padding: 10px; overflow-y: auto; color: #333; font-size: 14px; }
+.answerBox { background: #f0f0f0; padding: 8px; border-radius: 5px; margin-bottom: 10px; }
+.chatInputArea { display: flex; padding: 10px; border-top: 1px solid #eee; }
+.chatInputArea input { flex: 1; padding: 5px; border: 1px solid #ddd; border-radius: 3px; }
+.chatInputArea button { margin-left: 5px; background: #25c2a0; color: white; border: none; border-radius: 3px; cursor: pointer; }
